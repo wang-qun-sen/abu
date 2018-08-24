@@ -1,8 +1,6 @@
 # LDMNet: Low Dimensional Manifold Regularized Neural Networks
 
-Implementation of the article
-
-[LDMNet: Low Dimensional Manifold Regularized Neural Networks](http://www.ipam.ucla.edu/abstract/?tid=14951&pcode=DLT2018)
+Implementation of the article ![LDMNet: Low Dimensional Manifold Regularized Neural Networks](http://www.ipam.ucla.edu/abstract/?tid=14951&pcode=DLT2018)
 ![LDMNet](/img/LDMNet.png)
 
 This project contains the python source and matlab source code for LDMNet.
@@ -13,6 +11,7 @@ And mnist_2.py contains the multi-task loss.
 ## How to Install MatConvNet Toolbox
 The matlab source use the MatConvNet toolbox. If you don't have MatConvNet installed yet. Follow instructions to get it.
 First install the MatConvNet toolbox (test the code on matconvnet-1.0-beta13 & matlab-R2014a with a Linux machine)
+
 1.in the terminal, type
 ```
 export LD_LIBRARY_PATH="$LD_LIBRARY_PATH:/usr/local/cuda-7.0/lib64"
