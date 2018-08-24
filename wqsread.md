@@ -1,7 +1,6 @@
 # LDMNet: Low Dimensional Manifold Regularized Neural Networks
 
 Implementation of the article ![LDMNet: Low Dimensional Manifold Regularized Neural Networks](http://www.ipam.ucla.edu/abstract/?tid=14951&pcode=DLT2018)
-![LDMNet](/img/LDMNet.png)
 
 This project contains the python source and matlab source code for LDMNet.
 
